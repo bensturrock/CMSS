@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xsl:version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="xs.xslt" ?><current>
+    <city id="2657215" name="Arbroath">
+        <coord lon="-2.59" lat="56.56"/>
+        <country>GB</country>
+        <timezone>0</timezone>
+        <sun rise="2019-11-30T08:18:24" set="2019-11-30T15:39:46"/>
+    </city>
+    <temperature value="-2.66" min="-4.44" max="-1" unit="celsius"/>
+    <humidity value="92" unit="%"/>
+    <pressure value="1025" unit="hPa"/>
+    <wind>
+        <speed value="3.1" unit="m/s" name="Light breeze"/>
+        <gusts/>
+        <direction value="270" code="W" name="West"/>
+    </wind>
+    <clouds value="88" name="overcast clouds"/>
+    <visibility value="10000"/>
+    <precipitation mode="no"/>
+    <weather number="804" value="overcast clouds" icon="04n"/>
+    <lastupdate value="2019-11-30T20:52:28"/>
+</current>
+</html>

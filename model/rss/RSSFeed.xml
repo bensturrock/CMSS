@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="RSSFeed.xslt" ?>
+<rss version="2.0">
+  <channel>
+    <title>CMSS Articles</title>
+    <link>hhttps://mayar.abertay.ac.uk/~1806055/</link>
+    <description>Newest Articles from CMSS</description>
+    <item>
+      <title>New Volkswagen Golf GTE will have 201bhp and 241bhp variants</title>
+      <description>The next-generation Volkswagen Golf GTE will offer two power outputs when it arrives on roads next year, intended to cater to both those wanting a standard plug-in hybrid and those in the market for a performance-focused PHEV. </description>
+      <link>https://mayar.abertay.ac.uk/~1806055/view/pages/manufacturers/volkswagen.php</link>
+      <pubDate>09/09/2019 3:08:33 AM</pubDate>
+      <author>BBC Business Editor</author>
+    </item>
+    <item>
+      <title>Ford in talks with VW to develop second EV in Europe, paper says</title>
+      <description>FRANKFURT -- Ford Motor could build more than one electric vehicle based on Volkswagen Group's EV platform, Ford of Europe President, Stuart Rowley, told a German business paper. </description>
+      <link>https://mayar.abertay.ac.uk/~1806055/view/pages/manufacturers/ford.php</link>
+      <link></link>
+      <pubDate>12/13/2019 2:41:30 AM</pubDate>
+      <author>Autocar</author>
+    </item>
+    <item>
+      <title>Citroen C4 Cactus successor to get battery power</title>
+      <description>PARIS -- Citroen will add a full-electric version of the C4 Cactus successor when the compact hatchback is renewed next year, CEO Linda Jackson said.</description>
+      <link>https://mayar.abertay.ac.uk/~1806055/view/pages/manufacturers/citroen.php</link>
+      <pubDate>12/12/2019 3:19:54 PM</pubDate>
+      <author>Peter Sigal</author>
+    </item>
+    <item>
+      <title>Brexit: BMW could cut shifts at Mini plant in event of no-deal</title>
+      <description>Workers at the Mini plant in Oxford could see their shifts cut in the event of a no-deal Brexit, BMW's finance chief has told the BBC. Nicolas Peter said production was likely to fall at the Cowley factory, affecting jobs. But he said BMW, which also makes Minis in the Netherlands, had no plans to "shift production" as yet. Boris Johnson has said he plans to take the UK out of the EU on 31 October - with or without a deal.</description>
+      <link>https://mayar.abertay.ac.uk/~1806055/view/pages/manufacturers/bmw.php</link>
+      <pubDate>09/09/2019 7:47:00 AM</pubDate>
+      <author>BBC Business Editor</author>
+    </item>
+    <item>
+      <title>Vatican receives modified Dacia Duster as new Popemobile </title>
+      <description>Renault has gifted a specially modified Dacia Duster to the head of the Catholic Church, Pope Francis. The budget SUV has been adapted to suit papal needs by Dacia’s Prototype department and Special Needs Team, in partnership with Romanian coachbuilder Romturingia. </description>
+      <link>https://mayar.abertay.ac.uk/~1806055/view/pages/manufacturers/dacia.php</link>
+      <pubDate>27/11/2019 4:11:02 AM</pubDate>
+      <author>Felix Page</author>
+    </item>
+  </channel>
+</rss>
